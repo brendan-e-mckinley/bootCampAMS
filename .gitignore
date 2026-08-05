@@ -1,0 +1,5 @@
+# exclude by directory
+bin/
+
+# exclude by extension
+*.log
