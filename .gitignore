@@ -1,5 +1,7 @@
 # exclude by directory
 bin/
+*/__pycache__/
 
 # exclude by extension
 *.log
+*.pyc
