@@ -1,0 +1,11 @@
+# environment.yml
+name: jupyter-env
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - ipykernel
+  - numpy
+  - matplotlib
+  - scipy
+  - pandas
