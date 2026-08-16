@@ -5,4 +5,3 @@ bin/
 # exclude by extension
 *.log
 *.pyc
-*.png
