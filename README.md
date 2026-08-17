@@ -11,3 +11,4 @@ Indebted to the AMS bootcamp miscellaneous coding repos that came before --
 1. Familiarity with general principles of version control and Git commands
 2. Getting comfortable with the terminal and Bash scripting
 3. Python installed and example Jupyter notebook set up
+4. Experience with the process of installing programs and diagnosing installation issues 
